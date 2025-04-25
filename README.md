@@ -20,6 +20,11 @@
 * Monitoring dockers : docker stats
 * Stopper un docker : docker stop zshuv
 
+## UV basics CLI : 
+* Creat projet : uv init new_project
+* Install specific python version : uv python install 3.14
+* Run streamlit : uv run --active streamlit run home.py
+
 ## Install from terminal
 1. $> git clone https://github.com/qwarksky/zshuv.git zshuv
 2. $> docker build -t zshuv .
