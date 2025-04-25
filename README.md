@@ -7,7 +7,8 @@
 
 ## Documentation and resume main CLI
 
-Manual docker : https://docs.docker.com/manuals/
+* Docker : https://docs.docker.com/manuals/
+* UV : https://docs.astral.sh/uv/guides/projects/
 
 ## DOCKER basics CLI : 
 * Verify Dockerfile :  docker build --check .
