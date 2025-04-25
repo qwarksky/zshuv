@@ -9,7 +9,7 @@
 
 Manual docker : https://docs.docker.com/manuals/
 
-DOCKER basics CLI : 
+## DOCKER basics CLI : 
 * Verify Dockerfile :  docker build --check .
 * Buliding image from Dockerfile :  docker build -t zshuv . 
 * Cleaning all images(be carefull) :  docker system prune -af  
