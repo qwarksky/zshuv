@@ -1,0 +1,22 @@
+[project]
+name = "pyproj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=9.1.0",
+    "matplotlib>=3.10.1",
+    "notebook>=7.4.1",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "polars>=1.27.1",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.2",
+    "seaborn>=0.13.2",
+]
+
+
+[tool.uv]
+cache-dir ="./.cache"
